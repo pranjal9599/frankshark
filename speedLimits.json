@@ -1,0 +1,7 @@
+//http://maps.googleapis.com/maps/api/geocode/json?latlng=28.457523,77.026344&sensor=false
+{
+	"mg road": 80,
+	"panchshil enclave": 40,
+	"Yamuna Expressway": 120,
+	"south delhi": 100,
+}
